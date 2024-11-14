@@ -1,0 +1,79 @@
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\Game123\bin\Debug\mehmane_nakhande.exe.config
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\bin\Debug\mehmane_nakhande.exe.config
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\bin\Debug\mehmane_nakhande.exe
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\bin\Debug\mehmane_nakhande.pdb
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.csprojResolveAssemblyReference.cache
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.aboutus.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.abtsoftware.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.collectappleform.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.collectingbad.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.collectinggood.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.loginform.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.formshooting.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.mainform.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.massegebox2.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.messagebox1.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.messagebox3.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.Properties.Resources.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.shootingbad.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.shootinggood.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.spraycovidbad.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.spraycovidgood.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.spraygame.resources
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.csproj.GenerateResource.Cache
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.exe
+C:\Users\Fadak\Documents\Visual Studio 2015\Projects\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.pdb
+C:\Users\Fadak\Pictures\mehmane_nakhande\mehmane_nakhande\bin\Debug\mehmane_nakhande.exe.config
+C:\Users\Fadak\Pictures\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.exe
+C:\Users\Fadak\Pictures\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.pdb
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\bin\Debug\mehmane_nakhande.exe.config
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\bin\Debug\mehmane_nakhande.exe
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\bin\Debug\mehmane_nakhande.pdb
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.csprojAssemblyReference.cache
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.aboutus.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.abtsoftware.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.collectappleform.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.collectingbad.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.collectinggood.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.loginform.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.formshooting.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.mainform.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.massegebox2.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.messagebox1.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.messagebox3.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.Properties.Resources.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.shootingbad.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.shootinggood.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.spraycovidbad.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.spraycovidgood.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.spraygame.resources
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.csproj.GenerateResource.cache
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.csproj.CoreCompileInputs.cache
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.exe
+C:\Users\pc1\Pictures\mrtzv\source\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.pdb
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\bin\Debug\mehmane_nakhande.exe.config
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\bin\Debug\mehmane_nakhande.exe
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\bin\Debug\mehmane_nakhande.pdb
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.csprojAssemblyReference.cache
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.aboutus.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.abtsoftware.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.collectappleform.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.collectingbad.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.collectinggood.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.loginform.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.formshooting.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.mainform.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.massegebox2.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.messagebox1.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.messagebox3.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.Properties.Resources.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.shootingbad.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.shootinggood.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.spraycovidbad.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.spraycovidgood.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.spraygame.resources
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.csproj.GenerateResource.cache
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.csproj.CoreCompileInputs.cache
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.exe
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.pdb
+C:\Users\pc1\Pictures\mrtzv\source\new\mehmane_nakhande\mehmane_nakhande\obj\Debug\mehmane_nakhande.Form2.resources
